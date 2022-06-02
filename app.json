@@ -16,14 +16,14 @@
       "required": false
     },
     "vindex": {
-      "description": "伪装网站，填写一个真实网站地址",
+      "description": "https://latestkeralanews.com/",
       "value": "",
       "required": false
     }
    
   },
-  "website": "https://github.com/kndkkopfs/oelkzdy",
-  "repository": "https://github.com/kndkkopfs/oelkzdy",
+  "website": "https://github.com/lovelyless/zdydj",
+  "repository": "https://github.com/lovelyless/zdydj",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
